@@ -1,2 +1,15 @@
 theme: jekyll-theme-minimal
+lsi: false
+safe: true
+source: [/pages]
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+plugins:
+- jekyll-remote-theme
 title: Русский инвалид
+lang: ru-RU
